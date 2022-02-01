@@ -17,6 +17,12 @@
 // slicePar.php
 -->
 
+<!-- Stampiamo il nostro array mettendo gli insegnanti in un rettangolo grigio e i PM in un rettangolo verde. -->
+<!-- teacher.php -->
+
+<!-- Ad ogni refresh della pagina visualizzare una pubblicità a schermo, tenendo conto che possono essere sorteggiate solo quelle is_active true. -->
+<!-- adv.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,6 +38,8 @@
     <a href="multidimensionalArray.php"> Snack 2</a>
     <a href="randomNumber.php"> Snack 3</a>
     <a href="slicePar.php"> Snack 4</a>
+    <a href="teacher.php"> Snack 5</a>
+    <a href="adv.php"> Snack 6</a>
 </body>
 
 </html>
