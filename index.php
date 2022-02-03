@@ -23,6 +23,11 @@
 <!-- Ad ogni refresh della pagina visualizzare una pubblicità a schermo, tenendo conto che possono essere sorteggiate solo quelle is_active true. -->
 <!-- adv.php -->
 
+<!-- Creiamo un array consentente dei prodotti con Nome Prezzo Immagine Tipologia
+Stampiamo tutti i nostri prodotti in pagina
+Poi con una select filtriamo i nostri prodotti per prezzo o per tipologia -->
+<!-- arrayFilter.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -40,6 +45,7 @@
     <a href="slicePar.php"> Snack 4</a>
     <a href="teacher.php"> Snack 5</a>
     <a href="adv.php"> Snack 6</a>
+    <a href="arrayFilter.php"> Snack 7</a>
 </body>
 
 </html>
